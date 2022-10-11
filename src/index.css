@@ -1,0 +1,36 @@
+
+.input{
+  display: block;
+}
+
+.field{
+  border-radius: 10px;
+  background: #ffffff;
+  padding: 5px;
+  width: 94%;
+  height: 20px;
+}
+
+.submit{
+  border-radius: 10px;
+  background: #48a2f7;
+  padding: 20px;
+  width: 95%;
+  height: 20px;
+}
+
+.dropdown{
+  border-radius: 10px;
+  background: #ffffff;
+  padding: 5px;
+  width: 95%;
+  height: 34px;
+}
+
+.calculator{
+  border-radius: 20px;
+  background: rgb(232, 223, 223);
+  width: 100%;
+  padding: 20px;
+  border-color: rgb(0, 0, 0);
+}
